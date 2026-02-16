@@ -198,3 +198,7 @@ print(result)
 ---
 
 *Hosted by SciX Platform | Version: 1.0.0*
+
+## Update
+
+Test update.
